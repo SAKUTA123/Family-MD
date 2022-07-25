@@ -46,8 +46,8 @@ global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/aguzfamilia"
 
 //============= callButtons =============//
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.dtc = 'LeonMd'
+global.phn = '+62 877-6055-0924'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
